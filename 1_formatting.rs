@@ -10,5 +10,3 @@ println!("{arg1} {arg2} {arg3}", arg1="This is arg1", arg2="This is arg2", arg3=
 println!("{string:>width$}", string="hello", width=10);
 
 }
-
-
